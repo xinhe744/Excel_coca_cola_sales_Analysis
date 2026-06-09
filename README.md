@@ -15,14 +15,6 @@ An interactive Excel sales dashboard built for Coca-Cola, analysing regional per
 
 ### 📍 Regional Sales & Operating Profit Breakdown
 
-| Region        | Avg. Monthly Total Sales (Peak) | Avg. Operating Profit (Peak) |
-
-| **Southeast** | $4,658.93                       | $1,804.94                    |
-| **West**      | $4,086.93                       | $1,337.84                    |
-| **South**     | $3,555.99                       | $1,588.02                    |
-| **Northeast** | $2,597.60                       | $911.23                      |
-| **Midwest**   | $1,753.94                       | $704.38                      |
-
 
 <img width="473" height="154" alt="region pics" src="https://github.com/user-attachments/assets/2a6484e6-b534-4967-b0b5-bce04b3b1adb" />
 
